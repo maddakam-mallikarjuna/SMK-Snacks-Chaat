@@ -1,6 +1,6 @@
 # SMK-Snacks & Chaat
 
--> Access the webpage from here --> https://arjun-0608.github.io/SMK-Snacks-Chaat/
+-> Access the webpage from here --> https://maddakam-mallikarjuna.github.io/SMK-Snacks-Chaat/
 -> Sooo far it’s my first and perfect designing of a web-page.
 
 -> It's simple webpage designed for a Chat & Snacks centre , available in online and making self webpage for more customer engage.
